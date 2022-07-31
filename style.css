@@ -1,0 +1,11 @@
+.navbar-brand{
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+#addinput{
+    border: 2px solid burlywood;
+    border-radius: 8px;
+}
+
